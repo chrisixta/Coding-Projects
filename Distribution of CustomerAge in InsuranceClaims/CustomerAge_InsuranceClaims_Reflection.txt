@@ -1,0 +1,10 @@
+*Refer to Figure 1 for Summary*
+
+Research & Data Sunmmary:
+-I analyzed an insurance claims dataset with 58,592 policyholders, focusing on customer age distribution. 
+-The data is right-skewed, meaning younger customers (39-49) file the most claims, while older customers (60-75) file fewer. 
+-The distribution does not follow a normal curve but instead fits Gamma and Weibull distributions, commonly used in actuarial science for modeling risk and claim frequency. 
+-Gamma Distributions are typically used for modeling insurance claims and age-related risk
+-Weibull Distributions are used for modeling survival rates and accident risk.
+-These findings suggest that younger policyholders file more insurance claims which shows they are most likely to be in an accident. Therefore, we can conclude that they are high liabilities and high risk.
+-Understanding this distribution helps insurance companies price policies based on age-related risk factors.
